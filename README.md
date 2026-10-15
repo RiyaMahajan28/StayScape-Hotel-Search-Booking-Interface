@@ -1,4 +1,4 @@
-# Soulea Website
+#StayScape- Hotel Search booking Website
 
 Marketing and booking UI for Soulea, built with [Next.js](https://nextjs.org) (App Router) and plain JavaScript (`.jsx` for components and pages, `.js` for data and helpers).
 
